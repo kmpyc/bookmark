@@ -17,7 +17,6 @@ def main():
         )
     execute_from_command_line(sys.argv)
 
-   #test
-   #sample
+
 if __name__ == '__main__':
     main()
